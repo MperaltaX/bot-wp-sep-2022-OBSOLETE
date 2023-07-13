@@ -43,7 +43,7 @@ Visitar la pagina
 
 
 
-__Listo 😎__
+__Listo __
 > Cuando sale este mensaje tu BOT está __listo__ para trabajar!
 ![](https://i.imgur.com/eoJ4Ruk.png)
 
