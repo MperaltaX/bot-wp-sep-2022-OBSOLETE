@@ -1,4 +1,4 @@
-##DESACTUALIZADO. Capado por META. 
+## DESACTUALIZADO. Capado por META. 
 
 ## Requisitos
 - node v14 o superior
